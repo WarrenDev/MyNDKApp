@@ -1,0 +1,4 @@
+MyNDKApp
+========
+
+Android NDK Development
